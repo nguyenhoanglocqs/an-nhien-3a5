@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_button_event" id="$,UY_pg).a+2h13R}TKi" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="v{jQ_7Kc|%!im%!zP|Y8"><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="AA-xdVh(mR`D#X$:/n.B"><value name="pause"><shadow type="timePicker" id="/I@(?=.n`.aIJ=--L6)d"><field name="ms">500</field></shadow></value><next><block type="device_clear_display" id="*U.O(%]8R4:BVXLq9oC7"></block></next></block></next></block></statement></block><block type="device_button_event" id=";YD.VSSvfs^qZ_@d+Vhw" x="257" y="6"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id=")*Y$~:N|B6.MEJSj`CyP"><field name="LEDS">`
+        . . # . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="aZ9%EBd5Xf!5:^w5nYPc"><value name="pause"><shadow type="timePicker" id="Q:A@[GbP.1Sx|PnD_|My"><field name="ms">500</field></shadow></value><next><block type="device_clear_display" id="jCq]#s=Vbn(n[ZWn(d@E"></block></next></block></next></block></statement></block></xml>
